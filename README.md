@@ -1,4 +1,4 @@
-# readyPlayerOne
+# portfolioSite
 
 **User Story #1:** My portfolio should have a welcome section with an id of welcome-section.
 
